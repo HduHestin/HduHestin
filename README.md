@@ -3,9 +3,11 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HduHestin&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+![Visitor Count](https://profile-counter.glitch.me/HduHestin/count.svg)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HduHestin&layout=compact&theme=tokyonight)
 
+![](https://github-readme-activity-graph.cyclic.app/graph?username=HduHestin&theme=dracula)
 
 
 <!--
