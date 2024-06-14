@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Hanalei+Fill&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&random=true&width=1080&lines=the+longest+journey+begins+with+a+single+step)](https://git.io/typing-svg)
-- 🌱 I’m currently learning python,pygame
+- 🌱 I’m currently learning python,pygame especially Yolo.
 - 💬 Ask me about anything even i don't know, it is communication that is the most important thing.
 - 📫 How to reach me: hestin1314@163.com
 
@@ -13,12 +13,12 @@
 
 [![HduHestin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HduHestin&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=HduHestin)
+
 
 
 <!--
 **HduHestin/HduHestin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![GitHub Streak](https://streak-stats.demolab.com/?user=HduHestin)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
