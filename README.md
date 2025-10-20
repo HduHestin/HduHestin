@@ -1,8 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Hanalei+Fill&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&random=true&width=1080&lines=the+longest+journey+begins+with+a+single+step)](https://git.io/typing-svg)
 - 🌱 I’m currently learning python,pygame especially Yolo.
 - 💬 Ask me about anything even i don't know, it is communication that is the most important thing.
-- 📫 How to reach me: hestin1314@163.com
-  
 
 
 <!--
