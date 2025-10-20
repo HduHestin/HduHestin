@@ -2,31 +2,50 @@
 - 🌱 I’m currently learning python,pygame especially Yolo.
 - 💬 Ask me about anything even i don't know, it is communication that is the most important thing.
 - 📫 How to reach me: hestin1314@163.com
-
-[![HduHestin's GitHub stats](https://github-readme-stats.vercel.app/api?username=HduHestin&show_icons=true&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HduHestin&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
-![Visitor Count](https://profile-counter.glitch.me/HduHestin/count.svg)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HduHestin&layout=compact&theme=tokyonight)
-
-[![HduHestin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HduHestin&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-![](https://raw.githubusercontent.com/HduHestin/HduHestin/output/github-contribution-grid-snake.svg)
+  
 
 
 <!--
-**HduHestin/HduHestin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![GitHub Streak](https://streak-stats.demolab.com/?user=HduHestin)
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hello! 👋
+I'm HduHestin — an engineer working on AI model deployment (YOLOv9 → ONNX → RKNN).
+This is my GitHub profile README, which also serves as a quick guide for uploading code to GitHub.
+Feel free to use or adapt it!
 -->
+
+# 🚀 How to Upload Local Code to GitHub Using Git
+
+A practical, no-fluff guide for developers (especially beginners) to push projects to GitHub — including fixes for the most common pitfalls.
+
+---
+
+## ✅ Step-by-Step Upload Process
+
+### 1. **Create a New Repository on GitHub**
+- Go to [github.com/new](https://github.com/new)
+- Enter a repository name (e.g., `my-project`)
+- **Do NOT initialize with a README, .gitignore, or license** if you already have local code
+- Click **Create repository**
+
+### 2. **Initialize Git in Your Local Project**
+```bash
+# Navigate to your project folder
+cd /path/to/your/project
+
+# Initialize Git
+git init
+
+# Stage all files
+git add .
+
+# Commit with a message
+git commit -m "Initial commit"
+
+# Connect to your remote repo (use SSH or HTTPS)
+git remote add origin git@github.com:HduHestin/your-repo-name.git
+
+# Push to main branch
+git push -u origin main
+```
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HduHestin&layout=compact&theme=tokyonight)
+![](https://raw.githubusercontent.com/HduHestin/HduHestin/output/github-contribution-grid-snake.svg)
